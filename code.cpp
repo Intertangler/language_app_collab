@@ -18,5 +18,7 @@ int main() {
 	someObject.setName("asdf");
 	cout << someObject.getName() << endl;
 	cout << "Code and stuff" << endl;
+
+	// Soft reset does what?
 	return 0;
 }
