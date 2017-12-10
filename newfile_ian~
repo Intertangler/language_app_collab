@@ -1,1 +1,8 @@
 this is my new file!!!
+
+<<<<<<< HEAD
+some changes made on the master
+
+=======
+A new line what a surprise!
+>>>>>>> 6407463... added line in file in branch b1
