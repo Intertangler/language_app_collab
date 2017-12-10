@@ -18,7 +18,14 @@ int main() {
 	someObject.setName("asdf");
 	cout << someObject.getName() << endl;
 	cout << "Code and stuff" << endl;
+	
 
+
+	for (int =0; i < 10; ++i) {
+
+		cout << "Wow what a loop!" << endl;
+	}
+	// Another comment!
 	// Soft reset does what?
 	return 0;
 }
