@@ -3,6 +3,7 @@ import codecs
 import numpy as np
 import itertools
 
+#some comments and changes to the code
 with codecs.open("readinput.txt","r",encoding="utf-8") as f:
     readString = f.read()
 replacedString = readString.replace(" ","$")
